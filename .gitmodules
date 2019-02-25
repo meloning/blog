@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/JANGJUNSU/JANGJUNSU.github.io.git
+	branch = masterCopy
